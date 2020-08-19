@@ -3,7 +3,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/chaseyb/employee-directory)
 ![GitHub top language](https://img.shields.io/github/languages/top/chaseyb/employee-directory)
 
-<img src="public/demo.png">
+<img src="public/ed-demo.png">
 
 ## Table of Contents
 
