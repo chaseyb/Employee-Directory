@@ -9,7 +9,7 @@ const SearchName = () => {
         <div className="searchbox">
             <form className="form-inline">
                 <input
-                    className="form-control mr-sm-2"
+                    className="form-control col-lg-4 searchbox"
                     type="search"
                     placeholder="Search"
                     aria-label="Search"
