@@ -15,15 +15,18 @@
 
 ## Description
 
-A employee directory that allows the user to view all employees at once and have quick access to their information.
+A React employee directory that allows the user to view all employees at once and have quick access to their information.
 
 ## Install
 
-- Git Clone https://github.com/chaseyb/Employee-directory
+* Git Clone https://github.com/chaseyb/Employee-directory
+* `npm install`
+* `npm start`
+* Enjoy on http://localhost:3000/
 
 ## Usage
 
-When using this web application the user will be able to sort employees by name, email, phone number, etc ect..
+When using this web application the user will be able to search and sort employees by Name, Email, and DOB.
 
 ## Licences
 
@@ -31,9 +34,7 @@ When using this web application the user will be able to sort employees by name,
 
 ## Heroku Demo
 
-Coming Soon!
-
- <!-- [Heroku link](https://budget-tracker-9000.herokuapp.com/ "Heroku Link") -->
+[Heroku link](https://employee-directory-9000.herokuapp.com/ "Heroku Link")
 
 ## Questions?
 
